@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **freelancing website**
 
-- 🌱 I’m currently learning **java script**
-
 - 👯 I’m looking to collaborate on **projects**
 
 - 🤝 I’m looking for help with **machine learning**
